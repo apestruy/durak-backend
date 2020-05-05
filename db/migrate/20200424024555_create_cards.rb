@@ -4,6 +4,7 @@ class CreateCards < ActiveRecord::Migration[6.0]
       t.string :value
       t.string :suit
       t.string :imageUrl
+      t.string :imageBack
 
       t.timestamps
     end

@@ -33,182 +33,218 @@ cards = [
     {
         value: "ACE",
         suit: "HEARTS",
-        imageUrl: "https://deckofcardsapi.com/static/img/AH.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/AH.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "ACE",
         suit: "DIAMONDS",
-        imageUrl: "https://deckofcardsapi.com/static/img/AD.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/AD.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "ACE",
         suit: "CLUBS",
-        imageUrl: "https://deckofcardsapi.com/static/img/AC.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/AC.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "ACE",
         suit: "SPADES",
-        imageUrl: "https://deckofcardsapi.com/static/img/AS.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/AS.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "KING",
         suit: "HEARTS",
-        imageUrl: "https://deckofcardsapi.com/static/img/KH.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/KH.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "KING",
         suit: "DIAMONDS",
-        imageUrl: "https://deckofcardsapi.com/static/img/KD.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/KD.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "KING",
         suit: "CLUBS",
-        imageUrl: "https://deckofcardsapi.com/static/img/KC.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/KC.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "KING",
         suit: "SPADES",
-        imageUrl: "https://deckofcardsapi.com/static/img/KS.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/KS.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "QUEEN",
         suit: "HEARTS",
-        imageUrl: "https://deckofcardsapi.com/static/img/QH.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/QH.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "QUEEN",
         suit: "DIAMONDS",
-        imageUrl: "https://deckofcardsapi.com/static/img/QD.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/QD.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "QUEEN",
         suit: "CLUBS",
-        imageUrl: "https://deckofcardsapi.com/static/img/QC.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/QC.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "QUEEN",
         suit: "SPADES",
-        imageUrl: "https://deckofcardsapi.com/static/img/QS.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/QS.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "JACK",
         suit: "HEARTS",
-        imageUrl: "https://deckofcardsapi.com/static/img/JH.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/JH.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "JACK",
         suit: "DIAMONDS",
-        imageUrl: "https://deckofcardsapi.com/static/img/JD.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/JD.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "JACK",
         suit: "CLUBS",
-        imageUrl: "https://deckofcardsapi.com/static/img/JC.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/JC.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "JACK",
         suit: "SPADES",
-        imageUrl: "https://deckofcardsapi.com/static/img/JS.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/JS.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "10",
         suit: "HEARTS",
-        imageUrl: "https://deckofcardsapi.com/static/img/0H.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/0H.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "10",
         suit: "DIAMONDS",
-        imageUrl: "https://deckofcardsapi.com/static/img/0D.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/0D.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "10",
         suit: "CLUBS",
-        imageUrl: "https://deckofcardsapi.com/static/img/0C.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/0C.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "10",
         suit: "SPADES",
-        imageUrl: "https://deckofcardsapi.com/static/img/0S.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/0S.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "9",
         suit: "HEARTS",
-        imageUrl: "https://deckofcardsapi.com/static/img/9H.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/9H.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "9",
         suit: "DIAMONDS",
-        imageUrl: "https://deckofcardsapi.com/static/img/9D.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/9D.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "9",
         suit: "CLUBS",
-        imageUrl: "https://deckofcardsapi.com/static/img/9C.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/9C.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "9",
         suit: "SPADES",
-        imageUrl: "https://deckofcardsapi.com/static/img/9S.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/9S.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "8",
         suit: "HEARTS",
-        imageUrl: "https://deckofcardsapi.com/static/img/8H.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/8H.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "8",
         suit: "DIAMONDS",
-        imageUrl: "https://deckofcardsapi.com/static/img/8D.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/8D.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "8",
         suit: "CLUBS",
-        imageUrl: "https://deckofcardsapi.com/static/img/8C.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/8C.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "8",
         suit: "SPADES",
-        imageUrl: "https://deckofcardsapi.com/static/img/8S.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/8S.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "7",
         suit: "HEARTS",
-        imageUrl: "https://deckofcardsapi.com/static/img/7H.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/7H.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "7",
         suit: "DIAMONDS",
-        imageUrl: "https://deckofcardsapi.com/static/img/7D.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/7D.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "7",
         suit: "CLUBS",
-        imageUrl: "https://deckofcardsapi.com/static/img/7C.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/7C.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "7",
         suit: "SPADES",
-        imageUrl: "https://deckofcardsapi.com/static/img/7S.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/7S.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "6",
         suit: "HEARTS",
-        imageUrl: "https://deckofcardsapi.com/static/img/6H.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/6H.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "6",
         suit: "DIAMONDS",
-        imageUrl: "https://deckofcardsapi.com/static/img/6D.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/6D.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "6",
         suit: "CLUBS",
-        imageUrl: "https://deckofcardsapi.com/static/img/6C.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/6C.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     },
     {
         value: "6",
         suit: "SPADES",
-        imageUrl: "https://deckofcardsapi.com/static/img/6S.png"
+        imageUrl: "https://deckofcardsapi.com/static/img/6S.png",
+        imageBack: "https://i.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d--playing-card-design-card-card.jpg"
     }
 ]
 
